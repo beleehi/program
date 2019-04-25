@@ -1,0 +1,7 @@
+procedure main()
+
+write("Type  a line ending  with <ENTER>  ")
+write("THe Line you typed was",read() )
+ 
+ 
+      end
